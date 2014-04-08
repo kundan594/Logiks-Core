@@ -11,7 +11,7 @@ ease of creating projects.
 + PHP 5.3+
 
 ###License
-Open Source MIT. Please visit the License Agreement Page Of <http://openlogiks.org/olgks/license/logiks3>.
+Open Source MIT. Please visit the License Agreement Page Of <http://openlogiks.org/olgks/licenses/logiks3>.
 This project uses some other open source projects, please find their descriptions at OpenLogiks License Page.
 
 ###Notes
