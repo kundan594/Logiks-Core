@@ -19,4 +19,4 @@ These are plain source code of/part of the complete working project.
 For more details visit <http://openlogiks.org>
 For a complete working demo visit <http://demo.openlogiks.org>
 For a complete api documentation  visit <http://apidocs.openlogiks.org>
-For a complete working downloadable package please visit <http://openlogiks.org/downloads/>
+For a complete working downloadable package please visit <http://openlogiks.org/olgks/downloads/>
